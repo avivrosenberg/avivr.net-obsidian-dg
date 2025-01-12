@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/actions/output/avivr-net/index/","title":"Welcome","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"index.md","permalink":"/index/","title":"Welcome","tags":["gardenEntry"]}
 ---
 
 
