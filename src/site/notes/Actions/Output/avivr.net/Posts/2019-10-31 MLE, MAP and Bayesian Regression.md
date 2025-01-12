@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Posts/2019-10-31 MLE, MAP and Bayesian Regression.md","permalink":"/posts/2019-10-31-mle-map-and-bayesian-regression/","title":"MLE, MAP and Bayesian Regression","dgShowToc":true}
+{"dg-publish":true,"dg-path":"Posts/2019-10-31 MLE, MAP and Bayesian Regression.md","permalink":"/posts/2019-10-31-mle-map-and-bayesian-regression/","title":"MLE, MAP and Bayesian Regression","tags":["machine-learning"],"dgShowToc":true,"created":"2019-10-31","updated":"2025-01-12T23:06:16.627+02:00"}
 ---
 
 
