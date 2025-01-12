@@ -3,7 +3,7 @@
 ---
 
 
-# index
+# Welcome
 
 Welcome to my personal website and blog!
 ![aviv_06b.jpg|200](/img/user/Actions/Output/avivr.net/_assets/aviv_06b.jpg)
