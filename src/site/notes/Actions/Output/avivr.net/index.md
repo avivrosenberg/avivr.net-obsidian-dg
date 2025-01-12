@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"index.md","permalink":"/index/","title":"Welcome","tags":["gardenEntry"],"updated":"2025-01-12T22:51:33.154+02:00"}
+{"dg-publish":true,"dg-path":"index.md","permalink":"/index/","title":"Welcome","tags":["gardenEntry"],"updated":"2025-01-12T23:28:48.813+02:00"}
 ---
 
 
@@ -15,6 +15,24 @@ I completed my PhD in the Technion Computer Science Faculty, where I conducted m
 My research has been published in journals and conferences such as Nature Communications, PNAS, ICLR, and ICML. I was also the head TA of the faculty's Deep Learning course.
 
 In addition to research, I have a strong background in software engineering from multiple technical roles, where I gained extensive experience creating robust, testable, well-designed software.
+
+--- multi-column-start: multicol-1
+```column-settings  
+Number of Columns: 2
+Column Size: [49%, 49%]  
+Border: off
+Shadow: off
+Overflow: Scroll
+Text Align: Left
+```
+
+Column 1
+
+---break-column---
+
+Column 2
+
+---multi-column-end
 
 ## Posts
 
