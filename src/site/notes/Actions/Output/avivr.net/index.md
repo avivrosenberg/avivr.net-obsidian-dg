@@ -3,19 +3,9 @@
 ---
 
 
-<div class="welcome">
-<div>
-
 Welcome to my personal website and blog!
-
+![aviv_06b.jpg|200](/img/user/Actions/Output/avivr.net/_assets/aviv_06b.jpg)
 My name is Aviv, and I'm an experienced data scientist specializing in machine learning and signal processing.
-
-</div>
-<div class="me">
-<img src="aviv_06b.jpg"/>
-</div>
-
-</div>
 
 I have tackled data-intensive problems across diverse domains, including cardiology (deep-learning based ECG analysis), computational biology (directional statistics for protein structure analysis), transportation (time-series processing) and quantitative finance (learning-based portfolio construction and optimization).
 
