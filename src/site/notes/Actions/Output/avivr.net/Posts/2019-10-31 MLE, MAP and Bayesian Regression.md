@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Posts/2019-10-31 MLE, MAP and Bayesian Regression.md","permalink":"/posts/2019-10-31-mle-map-and-bayesian-regression/","title":"MLE, MAP and Bayesian Regression"}
+{"dg-publish":true,"dg-path":"Posts/2019-10-31 MLE, MAP and Bayesian Regression.md","permalink":"/posts/2019-10-31-mle-map-and-bayesian-regression/","title":"MLE, MAP and Bayesian Regression","dgShowToc":true}
 ---
 
 
