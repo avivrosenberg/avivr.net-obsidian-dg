@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","title":"Welcome","tags":["gardenEntry"],"updated":"2025-01-12T23:34:59.923+02:00"}
+{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","title":"Welcome","tags":["gardenEntry"],"updated":"2025-01-12T23:38:57.897+02:00"}
 ---
 
 
 # Welcome
 
-|                                                                                                                                                                    |                        |     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- | --- |
-| Welcome to my personal website and blog!<br><br>My name is Aviv, and I'm an experienced data scientist specializing in machine learning and signal processing.<br> | ![[aviv_06b.jpg\|200]] |     |
+| Welcome to my personal website and blog!<br><br>My name is Aviv, and I'm an experienced data scientist specializing in machine learning and signal processing.<br> | ![[aviv_06b.jpg\|200]] |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
 
 I have tackled data-intensive problems across diverse domains, including cardiology (deep-learning based ECG analysis), computational biology (directional statistics for protein structure analysis), transportation (time-series processing) and quantitative finance (learning-based portfolio construction and optimization).
 
