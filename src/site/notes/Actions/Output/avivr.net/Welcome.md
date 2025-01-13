@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","title":"Welcome","tags":["gardenEntry"],"updated":"2025-01-13T15:34:49.047+02:00"}
+{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","title":"Welcome","tags":["gardenEntry"],"updated":"2025-01-13T17:38:27.303+02:00"}
 ---
 
 
-![aviv_06b.jpg|300](/img/user/Actions/Output/avivr.net/_assets/aviv_06b.jpg)
+![aviv_06b.jpg|250](/img/user/Actions/Output/avivr.net/_assets/aviv_06b.jpg)
 
 # 👋🏻 Welcome
 
@@ -18,23 +18,13 @@ In addition to research, I have a strong background in software engineering from
 
 ## Posts
 
-- [[Actions/Output/avivr.net/Posts/2019-10-31 MLE, MAP and Bayesian Regression\|2019-10-31 MLE, MAP and Bayesian Regression]]
+- [October 31, 2019] [[Actions/Output/avivr.net/Posts/2019-10-31 MLE, MAP and Bayesian Regression\|MLE, MAP and Bayesian Regression]]
 
 { .block-language-dataview}
 
 ## News
 
-- [[Actions/Output/avivr.net/News/2023-10-27 new paper in pnas amino-domino\|2023-10-27 new paper in pnas amino-domino]]
-- [[Actions/Output/avivr.net/News/2020-07-19 new paper in sci rep\|2020-07-19 new paper in sci rep]]
-- [[Actions/Output/avivr.net/News/2020-08-24 MLIS_scholarship\|2020-08-24 MLIS_scholarship]]
-- [[Actions/Output/avivr.net/News/2021-06-14 MUNCAI-paper\|2021-06-14 MUNCAI-paper]]
-- [[Actions/Output/avivr.net/News/2021-07-23 featured-by-technion\|2021-07-23 featured-by-technion]]
-- [[Actions/Output/avivr.net/News/2021-12-08 Gutwirth scholarship\|2021-12-08 Gutwirth scholarship]]
-- [[Actions/Output/avivr.net/News/2022-05-20 natcomm paper\|2022-05-20 natcomm paper]]
-- [[Actions/Output/avivr.net/News/2022-06-06 featured-by-technion\|2022-06-06 featured-by-technion]]
-- [[Actions/Output/avivr.net/News/2022-12-20 scirep-paper\|2022-12-20 scirep-paper]]
-- [[Actions/Output/avivr.net/News/2023-02-01 vqr-iclr\|2023-02-01 vqr-iclr]]
-- [[Actions/Output/avivr.net/News/2023-05-22 phd-defense\|2023-05-22 phd-defense]]
-- [[Actions/Output/avivr.net/News/2023-07-01 icmlw-papers\|2023-07-01 icmlw-papers]]
+- [August 24, 2020] [[Actions/Output/avivr.net/News/2020-08-24 MLIS_scholarship\|MLIS Data Science Scholarship awarded.]]
+- [July 19, 2020] [[Actions/Output/avivr.net/News/2020-07-19 new paper in sci rep\|New paper in Nature Scientific Reports]]
 
 { .block-language-dataview}
