@@ -1,0 +1,25 @@
+version: "3.7"
+
+services:
+  eleventy-build:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      # Mount the current directory to /app in the container for real-time updates
+      - .:/app
+    command: npm run build
+    working_dir: /app
+
+  eleventy-watch:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      # Mount the current directory to /app in the container for live reload
+      - .:/app
+    ports:
+      # Map port 8080 (used by Eleventy's dev server) to host
+      - "8080:8080"
+    command: npm run start
+    working_dir: /app
